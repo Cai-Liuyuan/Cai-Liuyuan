@@ -1,0 +1,24 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/cai.png"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Cai-Liuyuan
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Belarusian State University，Major in Educational Management，EM24-A，Cai Liuyuan
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
